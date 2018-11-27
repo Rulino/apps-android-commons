@@ -7,7 +7,7 @@ import org.junit.Test;
 import static org.mockito.Matchers.anyString;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
-
+ 
 import fr.free.nrw.commons.R;
 
 
